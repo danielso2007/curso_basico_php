@@ -1,1 +1,1 @@
-docker exec -it php-container bash
+docker exec -it php bash
